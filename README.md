@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="utf-8">
-        <title> bài 4 tạo danh sách</title>
         <style>
             th,td {width:100px; height:50px; font-size:25px;}
             th {text-decoration:underline;}
