@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <style>
-            th,td {width:100px; height:50px; font-size:25px;}
-            th {text-decoration:underline;}
-            h5,th,td {text-align:center;}
-        </style>
+    <style>
+        th,td {width:100px; height:50px; font-size:25px;}
+        th {text-decoration:underline;}
+        h5,th,td {text-align:center;}
+    </style>
     </head>
     <body>
         <center><table border="3">
